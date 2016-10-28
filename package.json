@@ -1,0 +1,28 @@
+{
+  "name": "scheduler",
+  "version": "0.0.1",
+  "description": "A lightweight version of igniter to function as a temporary standin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/html-next/scheduler.git"
+  },
+  "keywords": [
+    "igniter",
+    "backburner",
+    "requestAnimationFrame",
+    "scheduler"
+  ],
+  "author": "Chris Thoburn (@runspired)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/html-next/scheduler/issues"
+  },
+  "homepage": "https://github.com/html-next/scheduler#readme",
+  "dependencies": {
+    "cancellation-token": "^1.0.0"
+  }
+}
